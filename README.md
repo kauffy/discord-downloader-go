@@ -93,6 +93,7 @@ While this project works for user logins, I do not recommend it as you risk acco
 
 - Direct Links to Files
 - Discord File Attachments
+- Midjourney
 - Twitter / X _(unofficial scraping, requires account login, see config section)_
 - Instagram _(unofficial scraping, requires account login, see config section)_
 - Imgur
